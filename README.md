@@ -57,6 +57,7 @@ Será desenvolvido uma lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
   * Adicione uma descrição para o _Pull Request_, um título claro que o identifique, e clique no botão verde _"Create pull request"_
   * **Não se preocupe em preencher mais nada por enquanto!**
   * Volte até a [página de _Pull Requests_ do repositório](https://github.com/mabiiak/todo-list-JS-dom.git/pulls) e confira que o seu _Pull Request_ está criado
+</details>
 
 ## Requisitos
 
@@ -92,3 +93,6 @@ Será desenvolvido uma lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
     ❌ 13 Adicione dois botões, um com id="mover-cima" e outro com id="mover-baixo", que permitam mover o item selecionado para cima ou para baixo na lista de tarefas
 
     ❌ 14 Adicione um botão com id="remover-selecionado" que, quando clicado, remove o item selecionado
+</details>
+
+## Obrigada pela visita!
